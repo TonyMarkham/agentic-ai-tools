@@ -1,0 +1,16 @@
+[
+    {
+        "symbol": "KNW",
+        "name": "KNOW LABS, INC.",
+        "exchange": "NYSE",
+        "cik": "0001074828",
+        "cusip": "499238202"
+    },
+    {
+        "symbol": "GME",
+        "name": "GameStop Corp.",
+        "exchange": "NYSE",
+        "cik": "0001326380",
+        "cusip": "36467W109"
+    }
+]
